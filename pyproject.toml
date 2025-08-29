@@ -1,0 +1,17 @@
+[project]
+name = "kaggle-competitions"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "LeeFlyYoung", email = "leeflyyoung@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+kaggle-competitions = "kaggle_competitions:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
