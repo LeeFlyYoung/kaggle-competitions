@@ -12,10 +12,15 @@ dependencies = [
     "ipykernel>=6.30.1",
     "kaggle>=1.7.4.5",
     "matplotlib>=3.10.6",
+    "nbformat>=5.10.4",
     "numpy>=2.3.2",
     "pandas>=2.3.2",
+    "plotly>=6.3.0",
     "scikit-learn>=1.7.1",
     "seaborn>=0.13.2",
+    "squarify>=0.4.4",
+    "statsmodels>=0.14.5",
+    "stemgraphic>=0.9.1",
     "xgboost>=3.0.4",
 ]
 
